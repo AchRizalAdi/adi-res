@@ -1,0 +1,4 @@
+Resolusi diriku
+- bisa memahami laravel
+- bisa memahami front end 
+- bisa memahami back end
