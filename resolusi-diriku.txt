@@ -1,3 +1,5 @@
 Resolusi diriku
 - bisa memahami front end 
 - bisa memahami back end
+- membuat website sekolaj
+- membuat perpustakaan
